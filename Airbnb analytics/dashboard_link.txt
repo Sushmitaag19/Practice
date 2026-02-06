@@ -1,0 +1,2 @@
+Link to dashboard:
+https://public.tableau.com/app/profile/sushmita.gautam/viz/airnbnb_analytics/Dashboard1
