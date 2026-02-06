@@ -1,2 +1,5 @@
-# Practice
-Daily hands-on data analytics projects using Excel, Tableau, Power BI, Python, and SQL
+HR Data analytics
+
+- Experimented with various charts and cards;
+- Formatted the canva as well as the charts
+- - Applied filters 
