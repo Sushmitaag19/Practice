@@ -1,0 +1,165 @@
+candidate_id,candidate_name,gender,age,dob,political_party,is_independent,province_name,district_name,constituency_no,votes_received,vote_share_pct,victory_margin,victory_margin_pct,runner_up_name,runner_up_party,qualification_normalized,institution
+339933,Kshitiz Thebe,Male,38,8/27/2044,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Koshi region,Taplejung,1,13962,32.55,2251,5.25,Gajendra Prasad Tumyang Limbu,Nepali Congress,Bachelor,TU
+340563,Narendra Kumar Kerung,Male,53,8/21/2029,Nepali Congress,FALSE,Koshi region,Panchthar,1,17233,25.75,2499,3.73,Hast Raj Sherma,Labor Culture Party,??????????? ??????????,????.?? ?????????
+340081,Pure rye,Male,35,11/7/2047,Nepali Congress,FALSE,Koshi region,Ilam,1,14543,24.49,911,1.53,Vinod Nembang Limbu,Labor Culture Party,Unknown,
+339922,Suhang Nembang,Male,36,11/6/2046,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Koshi region,Ilam,2,22426,35.16,7776,12.19,Bhesharaj Acharya,Nepali Congress,Unknown,
+339485,Nisha Dangi,Woman,29,8/16/2053,National Independence Party,FALSE,Koshi region,Jhapa,1,45680,58.35,35130,44.87,Keshav Raj Pandey,Nepali Congress,Masters,TU
+339380,Indira Rana Magar,Woman,55,3/18/2027,National Independence Party,FALSE,Koshi region,Jhapa,2,60110,65.82,48742,53.37,Dev Raj Ghimire,Communist Party of Nepal (Unified Marxist-Leninist),?? ??,???????? ??????????
+339542,Prakash Pathak,Male,37,4/1/2045,National Independence Party,FALSE,Koshi region,Jhapa,3,38674,46.87,21380,25.91,Rajendra Prasad Lingden,National Democratic Party,????????????,TU
+339393,Shambhu Prasad Dhakal,Male,50,8/2/2032,National Independence Party,FALSE,Koshi region,Jhapa,4,43631,56.62,31645,41.07,Lal Prasad Sanwa Limbu,Communist Party of Nepal (Unified Marxist-Leninist),?? ? ??????? ???????,
+339653,Walendra Shah,Male,36,10/25/2046,National Independence Party,FALSE,Koshi region,Jhapa,5,68348,66.79,49614,48.48,KP Sharma Oli,Communist Party of Nepal (Unified Marxist-Leninist),BTU,
+340348,Arjun Kumar Karki,Male,62,4/26/2020,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Koshi region,Sankhuwasabha,1,15636,26.55,636,1.08,Mingma Sherpa,National Independence Party,????????????,"university of east anglia, school of development studies, UK"
+340612,Santosh Subba,Male,48,8/13/2034,Nepali Congress,FALSE,Koshi region,Thirteenth,1,11561,31.42,879,2.39,Bhanu Bhakta Dhakal,Communist Party of Nepal (Unified Marxist-Leninist),??.??.??,???????? ???? ????????
+339479,Dhruvaraj Rai,Male,43,3/13/2039,Labor Culture Party,FALSE,Koshi region,Bhojpur,1,16663,31.01,1913,3.56,Sherdhan Rai,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+339725,Rajendra Kumar Rai,Male,59,12/29/2022,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Koshi region,Dhankuta,1,18132,30.62,3875,6.54,Dinesh Rai,Nepali Congress,??.?.,????.??.
+341227,Yajnamani Nyaipane,Male,41,5/27/2041,National Independence Party,FALSE,Koshi region,Morang,1,27367,38.03,9845,13.68,Shanti Pakhrin Lama,Labor Culture Party,??.?.,
+341642,Krishna Kumar Karki,Male,40,8/21/2042,National Independence Party,FALSE,Koshi region,Morang,2,40924,54.86,25300,33.91,Dilip Kumar Aggarwal,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+341077,Ganesh Karki,Male,40,9/28/2042,National Independence Party,FALSE,Koshi region,Morang,3,36924,41.28,12570,14.05,Sunil Kumar Sharma,Nepali Congress,??????????????,????.??.
+342293,Santosh Rajbanshi,Male,34,9/12/2048,National Independence Party,FALSE,Koshi region,Morang,4,40833,54.79,28015,37.59,Guru Raj Ghimire,Nepali Congress,Bachelor,???? ??
+341509,Asha Jha,Woman,42,4/15/2040,National Independence Party,FALSE,Koshi region,Morang,5,30434,43.13,21019,29.79,Full Kumar Lalwani,Nepali Congress,Bachelor,"???????????? ?????? ??????? ????, ??????"
+341123,Rubina Acharya,Woman,31,10/10/2051,National Independence Party,FALSE,Koshi region,Morang,6,55513,64.96,42663,49.92,Dr. Shekhar Koirala,Nepali Congress,MBA,
+339794,Hark Raj Rai,Male,43,11/15/2039,Labor Culture Party,FALSE,Koshi region,Sunsari,1,35741,43.07,8492,10.23,Goma Tamang,National Independence Party,Bachelor,??.??.
+341392,Lal Bikram Thapa,Male,39,3/18/2043,National Independence Party,FALSE,Koshi region,Sunsari,2,57348,60.09,41277,43.25,Rajeev Koirala,Nepali Congress,???????? ?? ????? ?????????????,?????????? ????????
+340042,Ashok Kumar Chaudhary,Male,42,1/4/2040,National Independence Party,FALSE,Koshi region,Sunsari,3,47421,53.05,26920,30.12,Vijay Kumar Gachchhdar,Nepali Congress,Plus 2 / Higher Secondary,
+340603,Deepak Kumar Sah,Male,49,2/15/2033,National Independence Party,FALSE,Koshi region,Sunsari,4,42771,54.51,26184,33.37,Gyanendra Bahadur Karki,Nepali Congress,?????? ???????? ?????????????,????.?? ?????? ????????????? ???????? ?????? ???????
+341534,Prakash Singh Karki,Male,62,7/22/2020,Nepali Congress,FALSE,Koshi region,Solukhumbu,1,13166,34.14,3752,9.73,Ashim Rai,Nepali Communist Party,Plus 2 / Higher Secondary,
+339964,Aren Rai,Male,29,6/8/2053,Labor Culture Party,FALSE,Koshi region,Khotang,1,16612,28.33,3898,6.65,Dev Vikram Rai,Communist Party of Nepal (Unified Marxist-Leninist),Plus 2 / Higher Secondary,?????? ???? ???????
+339838,Bishwa Raj Pokharel,Male,59,4/20/2023,National Independence Party,FALSE,Koshi region,Okhaldhunga,1,13953,25.12,5,0.01,Kumar Luitel,Nepali Congress,??. ?.,???????? ?????????????
+341485,Parash Mani Gelal,Male,40,1/10/2042,National Independence Party,FALSE,Koshi region,Udaipur,1,30590,41.38,18984,25.68,Rajesh Kumar Rai,Labor Culture Party,Masters,????.??.
+341674,Surya Bahadur Tamang,Male,41,10/10/2041,National Independence Party,FALSE,Koshi region,Udaipur,2,14802,36.32,7154,17.55,Amwar Bahadur Rayamazhi,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+341238,Pushpa Kumari Chaudhary,Woman,36,8/5/2046,National Independence Party,FALSE,Madhesh Pradesh,Saptari,1,38195,53.55,30348,42.55,Sumit Kumar -,Swabhiman Party,Unknown,
+339852,Ramji Yadav,Male,30,7/26/2052,National Independence Party,FALSE,Madhesh Pradesh,Saptari,2,28404,45.24,14141,22.52,Umesh Kumar Yadav,"Janata Samajwadi Party, Nepal",Bachelor,
+341099,Amar Kant Chaudhary,Male,44,8/1/2038,National Independence Party,FALSE,Madhesh Pradesh,Saptari,3,32875,47.44,17636,25.45,Upendra Yadav,"Janata Samajwadi Party, Nepal",Bachelor,
+341103,Sitaram Sah,Male,65,10/15/2017,National Independence Party,FALSE,Madhesh Pradesh,Saptari,4,36412,54.92,23309,35.16,Teju Lal Chaudhary,Nepali Congress,I.sc Forestory,HETAUDA
+340556,Bablu Gupta,Male,28,4/7/2054,National Independence Party,FALSE,Madhesh Pradesh,Siraha,1,41322,61.35,31538,46.83,Ram Sundar Chaudhary,Nepali Congress,Bachelor,??????
+341250,Shiv Shankar Yadav,Male,30,6/20/2052,National Independence Party,FALSE,Madhesh Pradesh,Siraha,2,39561,56.81,26747,38.41,Ram Chandra Yadav,Nepali Congress,Bachelor,tu
+342059,Shambhu Kumar Yadav,Male,41,9/15/2041,National Independence Party,FALSE,Madhesh Pradesh,Siraha,3,32249,45.65,22093,31.28,Leelanath Shrestha,Communist Party of Nepal (Unified Marxist-Leninist),?? ??.??.??,chancho univarcity
+341713,Tapeshwar Yadav,Male,33,10/15/2049,National Independence Party,FALSE,Madhesh Pradesh,Siraha,4,36210,57.33,28238,44.71,Ajay Shankar Nayak,Nepali Communist Party,????? ?????????,TU
+339806,Ram Vinod Yadav,Male,49,12/29/2032,National Independence Party,FALSE,Madhesh Pradesh,Dhanusha,2,41637,53.36,31439,40.29,Dinesh Prasad Yadav Parsaila,Nepali Congress,Plus 2 / Higher Secondary,??????? ??? ????????
+340296,Manish Jha,Male,45,2/1/2037,National Independence Party,FALSE,Madhesh Pradesh,Dhanusha,3,43988,59.14,27336,36.75,Bimalendra Nidhi,Nepali Congress,Master in political Science,T.U.
+341797,Raj Kishore Mahato,Male,51,1/14/2031,National Independence Party,FALSE,Madhesh Pradesh,Dhanusha,4,48270,60.98,32461,41.01,Mahendra Yadav,Nepali Congress,Unknown,
+341312,Pramod Kumar Mahato,Male,40,4/15/2042,National Independence Party,FALSE,Madhesh Pradesh,Mahottari,1,34636,54.77,22012,34.81,Giriraj Mani Pokharel,Nepali Communist Party,SLC,????? ??.??. ??????
+341190,Deepak Kumar Sah,Male,34,12/10/2047,National Independence Party,FALSE,Madhesh Pradesh,Mahottari,2,32722,55.32,22524,38.08,Sharat Singh Bhandari,"Janata Samajwadi Party, Nepal",????????,institute of medicine (london school of Hygiene and tropical medicine)
+340549,Ujjwal Kumar Jha,Male,33,9/25/2049,National Independence Party,FALSE,Madhesh Pradesh,Mahottari,3,32451,54.56,26482,44.52,Muhammad Rizwan,Nepal Federal Socialist Party (single election symbol),?????????,??.??.??. ??????
+341656,Gauri Kumari,Woman,54,10/5/2028,National Independence Party,FALSE,Madhesh Pradesh,Mahottari,4,30132,50.61,21390,35.92,Surendra Kumar Yadav,"Janata Samajwadi Party, Nepal",Plus 2 / Higher Secondary,
+342793,Nitima Bhandari (Karki),Woman,43,4/2/2039,National Independence Party,FALSE,Madhesh Pradesh,Sarlahi,1,44181,59.83,36310,49.17,Shambhu Lal Shrestha,Nepali Congress,?????? ??,old street college eustom (UK)
+341252,Robin Mahato,Male,38,10/20/2044,National Independence Party,FALSE,Madhesh Pradesh,Sarlahi,2,42512,58.73,33989,46.96,Mahindra Rai Yadav,Nepali Communist Party,??+? ???,"??????? ??? ????????, ??????"
+339904,Narendra Shah Kalwar,Male,53,5/25/2029,National Independence Party,FALSE,Madhesh Pradesh,Sarlahi,3,46890,60.24,33552,43.1,Narayan Kazi Shrestha,Nepali Communist Party,?? ?,?? ?? ???????? ??????
+340974,Amresh Kumar Singh,Male,55,5/20/2027,National Independence Party,FALSE,Madhesh Pradesh,Sarlahi,4,35688,48.65,12857,17.53,Gagan Kumar Thapa,Nepali Congress,p.hd.,
+341836,Rajesh Kumar Chaudhary,Male,54,5/4/2028,National Independence Party,FALSE,Madhesh Pradesh,Rautahat,1,28946,43.82,18253,27.63,Ajay Kumar Gupta,Communist Party of Nepal (Unified Marxist-Leninist),???????????,????? ????? ????
+340266,Mo. Firdosh Alam,Male,39,9/5/2043,Nepali Congress,FALSE,Madhesh Pradesh,Rautahat,2,29528,44.64,11086,16.76,Kiran Kumar Sah,Nepali Communist Party,??.??.??.??.,"????? ?????? ?????, ?????????"
+341005,Ravindra Patel,Male,48,10/7/2034,National Independence Party,FALSE,Madhesh Pradesh,Rautahat,3,27318,40.37,15364,22.7,Govind Chaudhary,"Janata Samajwadi Party, Nepal",Ied,"???? ??.??. ???????? ??????????????, ?????"
+341093,Ganesh Poudel,Male,43,10/11/2039,National Independence Party,FALSE,Madhesh Pradesh,Rautahat,4,36876,52.93,21011,30.16,Dev Prasad Timalsena,Nepali Congress,????????????,
+340083,Ganesh Dhimal,Male,43,7/10/2039,National Independence Party,FALSE,Madhesh Pradesh,Twelve,1,39998,53.13,25775,34.24,Shambhu Bahadur Budhathoki,Nepali Congress,Masters,???????? ????? ????????
+341439,Chandan Kumar Singh,Male,42,12/27/2039,National Independence Party,FALSE,Madhesh Pradesh,Twelve,2,35590,48.91,21394,29.4,Ramkishore Prasad Yadav,"Janata Samajwadi Party, Nepal",Plus 2 / Higher Secondary,
+340776,Arvind Shah,Male,41,1/5/2041,National Independence Party,FALSE,Madhesh Pradesh,Twelve,3,40697,57.15,30645,43.04,Farmullah Mansoor,Nepali Congress,Masters,???????? ????? ????????
+341514,Rahwar Ansari,Male,39,1/15/2043,National Independence Party,FALSE,Madhesh Pradesh,Twelve,4,41200,55.2,29561,39.61,Krishna Kumar Shrestha,Communist Party of Nepal (Unified Marxist-Leninist),Masters,
+340884,Buddhi Prasad Pant,Male,46,6/14/2036,National Independence Party,FALSE,Madhesh Pradesh,Parsa,1,27274,47.66,14244,24.89,Pradeep Yadav,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+340881,Sushil Kumar Kanu,Male,36,1/17/2046,National Independence Party,FALSE,Madhesh Pradesh,Parsa,2,30740,50.14,18850,30.75,Ajay Kumar Chaurasia,Nepali Congress,Plus 2 / Higher Secondary,TU
+340309,Ramakant Prasad Chaurasia,Male,57,4/3/2025,National Independence Party,FALSE,Madhesh Pradesh,Parsa,3,29679,47.58,13313,21.34,Surendra Prasad Chaudhary,Nepali Congress,??,
+342274,Tek Bahadur Shakya,Male,50,11/11/2032,National Independence Party,FALSE,Madhesh Pradesh,Parsa,4,28006,45.28,15472,25.02,Ramesh Rijal,Nepali Congress,???????? ?????? ???? political science,??????? ??????? ???????? ???????
+339522,Jagdish Kharel,Male,36,12/27/2045,National Independence Party,FALSE,Bagmati Province,Dolakha,1,32376,40.56,14927,18.7,Parbat Gurung,Communist Party of Nepal (Unified Marxist-Leninist),Bachelor,Nepal
+340091,Krishna Hari Budhathoki,Male,44,5/10/2038,National Independence Party,FALSE,Bagmati Province,Ramechhap,1,24808,30.26,7199,8.78,Madhav Prasad Dhungel,Communist Party of Nepal (Unified Marxist-Leninist),Ph.D,???????? ??.
+340281,Dhanendra Karki,Male,38,12/22/2043,National Independence Party,FALSE,Bagmati Province,Sindhuli,1,16659,29.08,784,1.37,Pradeep Kumar Katuwal Chhetri (KC),Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+340203,Ashish Gajurel,Male,44,1/2/2038,National Independence Party,FALSE,Bagmati Province,Sindhuli,2,17940,33.43,3160,5.89,Lekh Nath Dahal,Nepali Communist Party,????? ?? ?????????? ????,??????? ??????????? ?????? ??????
+340518,Mohan Acharya,Male,48,12/29/2033,Nepali Congress,FALSE,Bagmati Province,Rasuwa,1,10656,44.51,5085,21.24,Basanta Bhatt,National Independence Party,Unknown,
+342066,Asika Tamang,Woman,37,7/1/2045,National Independence Party,FALSE,Bagmati Province,Dhading,1,39128,48.4,24096,29.81,Bhumi Prasad Tripathi,Communist Party of Nepal (Unified Marxist-Leninist),??????,????????? ?????? ????????
+340512,Bodh Narayan Shrestha,Male,56,5/3/2026,National Independence Party,FALSE,Bagmati Province,Dhading,2,26145,37.48,5866,8.41,Ramesh Prasad Dhamla,Nepali Congress,MS,
+340093,Vikram Timilsina,Male,43,7/7/2039,National Independence Party,FALSE,Bagmati Province,Nuwakot,1,22609,33.6,4012,5.96,Prakash Sharan Mahat,Nepali Congress,????????????,"??????? ?????????????, ???????????"
+341708,Achuttam Lamichhane,Male,48,7/27/2034,National Independence Party,FALSE,Bagmati Province,Nuwakot,2,32054,47.78,16551,24.67,Jagadishwar Narasimha K.C.,Nepali Congress,PhD,????? ?? ????????????? (?????? ??????)
+340716,Ranju Nyupane,Woman,30,11/20/2052,National Independence Party,FALSE,Bagmati Province,Kathmandu,1,15455,53.14,9091,31.26,Prabal Thapa Chhetri,Nepali Congress,Masters,
+340506,Pradeep Bisht,Male,51,8/29/2031,National Independence Party,FALSE,Bagmati Province,Kathmandu,10,37469,64.54,29369,50.59,Himal Karki,Nepali Congress,Intermediate in commerce,??????? ????????
+341881,Sunil K.C.,Male,43,8/17/2039,National Independence Party,FALSE,Bagmati Province,Kathmandu,2,34238,60.05,25364,44.49,Kabir Sharma,Nepali Congress,Plus 2 / Higher Secondary,HSEB
+339690,Raju Nath Pandey,Male,55,5/26/2027,National Independence Party,FALSE,Bagmati Province,Kathmandu,3,18757,44.75,7586,18.1,Kulman Ghising,Ujjaya Nepal Party,Masters,???????? ?????????????
+340660,Call Bomb,Male,38,3/10/2044,National Independence Party,FALSE,Bagmati Province,Kathmandu,4,29142,59.85,20318,41.73,Sachin Timalsena,Nepali Congress,Unknown,
+340670,Sasmit Pokharel,Male,29,12/1/2052,National Independence Party,FALSE,Bagmati Province,Kathmandu,5,30737,61.23,21578,42.98,Pradeep Poudel,Nepali Congress,Bachelor,Kathmandu University
+342290,Shishir Khanal,Male,47,9/16/2035,National Independence Party,FALSE,Bagmati Province,Kathmandu,6,27916,64.39,21249,49.01,Krishna Vaniya Kshetri,Nepali Congress,Masters,"University of Wishconsin, USA"
+340951,Ganesh Parajuli,Male,46,4/13/2036,National Independence Party,FALSE,Bagmati Province,Kathmandu,7,27805,65.12,23823,55.8,Pramod Hari Guragai,Nepali Congress,Bachelor,
+340972,Viraj Bhakta Shrestha,Male,44,1/26/2038,National Independence Party,FALSE,Bagmati Province,Kathmandu,8,24592,67.54,21375,58.7,Suman Sayami,Nepali Communist Party,Bachelor,SANN International College
+340686,Dol Prasad Aryal,Male,51,5/6/2031,National Independence Party,FALSE,Bagmati Province,Kathmandu,9,35093,69.26,29633,58.48,Nanu Maiya Bastola,Nepali Congress,Unknown,
+339461,Rukesh Ranjit,Male,46,4/4/2036,National Independence Party,FALSE,Bagmati Province,Bhaktapur,1,33436,44.6,5289,7.06,Prem Suwal,Nepal Labor Farmers Party,??.??.?,??????? ???? ???????????
+340060,Rajeev Khatri,Male,39,1/8/2043,National Independence Party,FALSE,Bagmati Province,Bhaktapur,2,42334,60.67,31338,44.91,Mahesh Basnet,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+341868,Buddha Ratna Maharjan,Male,47,2/3/2035,National Independence Party,FALSE,Bagmati Province,Lalitpur,1,23373,47.13,9853,19.87,Uday Shansher J. B. Rana,Nepali Congress,??.?.,???? ????? ????????
+340217,Jagdish Kharel,Male,43,4/22/2039,National Independence Party,FALSE,Bagmati Province,Lalitpur,2,39491,64.41,32071,52.31,Prem Krishna Maharjan,Nepali Congress,masters,
+341547,Toshima Karki,Woman,36,2/7/2046,National Independence Party,FALSE,Bagmati Province,Lalitpur,3,43096,64.31,34051,50.81,Jitendra Kumar Shrestha,Nepali Congress,?? ?? ?? ??,???????? ?????????????
+341324,Madhu Kumar Chaulagai,Male,56,11/6/2026,National Independence Party,FALSE,Bagmati Province,Kavrepalanchok,1,29618,34.39,10452,12.14,Gunaraj Muktan,Nepali Congress,Bachelor,
+339525,Badan Kumar Bhandari,Male,33,5/6/2049,National Independence Party,FALSE,Bagmati Province,Kavrepalanchok,2,53344,53.57,35476,35.63,Madhu Prasad Acharya,Nepali Congress,Plus 2 / Higher Secondary,HSEB
+341908,Bharat Prasad Parajuli,Male,57,3/19/2025,National Independence Party,FALSE,Bagmati Province,Sindhupalchowk,1,24412,35.33,7085,10.26,Madhav Sapkota,Nepali Communist Party,Unknown,
+340921,Yuvraj Dulal,Male,43,11/7/2039,Nepali Communist Party,FALSE,Bagmati Province,Sindhupalchowk,2,21699,29.17,2553,3.43,Vanshlal Tamang,Nepali Congress,masters,
+339633,Prakash Gautam,Male,37,7/4/2045,National Independence Party,FALSE,Bagmati Province,Makwanpur,1,36033,39.72,21995,24.24,Mahalakshmi Upadhyay (Dina),Nepali Congress,Bachelor,???????? ?????????????
+339629,Prashant Upreti,Male,25,2/10/2057,National Independence Party,FALSE,Bagmati Province,Makwanpur,2,30050,35.1,11204,13.09,Mahesh Kumar Wartaula,Communist Party of Nepal (Unified Marxist-Leninist),Bachelor,????? ?????? ??? ???? ?????????? ??????????
+341241,Hari Dhakal,Male,42,4/2/2040,National Independence Party,FALSE,Bagmati Province,Chitwan,1,58208,63.34,45175,49.16,Rajendra Prasad Burlakoti,Nepali Congress,Bachelor,????????? ??????? ????????
+340990,Ravi Lamichhane,Male,50,5/28/2032,National Independence Party,FALSE,Bagmati Province,Chitwan,2,54402,64.59,39838,47.3,Meena Kumari Kharel,Nepali Congress,Certificate Level,???? ????? ??????? ????????
+341145,Sovita Gautam,Woman,30,3/3/2052,National Independence Party,FALSE,Bagmati Province,Chitwan,3,59277,61.33,38662,40,Renu Dahal,Nepali Communist Party,??????????? (?????),
+340913,Sudhan Gurung,Male,38,3/25/2044,National Independence Party,FALSE,Gandaki Province,Gorkha,1,29896,48.7,14498,23.62,Prem Kumar Khatri,Nepali Congress,Unknown,
+339991,Kavindra Burlakoti,Male,46,8/20/2036,National Independence Party,FALSE,Gandaki Province,Gorkha,2,26660,49.24,14960,27.63,Prakash Chandra Dawadi,Nepali Congress,Unknown,
+339862,Tek Bahadur Gurung,Male,71,8/11/2011,Nepali Congress,FALSE,Gandaki Province,Manang,1,2415,83.91,1961,68.14,Yashoda Gurung (Subedi),Nepali Communist Party,SLC,"????????? ?????????, ????????"
+339858,Dharma Raj K.C,Male,45,8/18/2037,National Independence Party,FALSE,Gandaki Province,Lamjung,1,33898,46.43,17022,23.31,Prithvi Subba Gurung,Communist Party of Nepal (Unified Marxist-Leninist),Masters,??? ????????????? ?.??????
+339553,Khadak Raj Poudel,Male,46,6/16/2036,National Independence Party,FALSE,Gandaki Province,Kaski,1,39883,59.16,28669,42.53,Tilak Bahadur Ranabhat,Nepali Congress,Unknown,
+339683,Uttam Prasad Poudel,Male,43,11/28/2038,National Independence Party,FALSE,Gandaki Province,Kaski,2,31911,62.97,24418,48.19,Rashmi Acharya,Communist Party of Nepal (Unified Marxist-Leninist),?????? ????,
+339651,Without Gurung,Woman,53,10/13/2029,National Independence Party,FALSE,Gandaki Province,Kaski,3,37750,60.26,24970,39.86,Manoj Gurung,Nepali Congress,Plus 2 / Higher Secondary,Prithivi Narayan Campus
+340905,Swarnim Wagle,Male,51,2/16/2031,National Independence Party,FALSE,Gandaki Province,Tanahun,1,38040,58.15,21809,33.34,Govinda Bhattarai,Nepali Congress,phd,??????????? ????? ???????????
+341124,Shriram Neupane,Male,56,3/21/2026,National Independence Party,FALSE,Gandaki Province,Tanahun,2,32687,52.23,18552,29.65,Shankar Bhandari,Nepali Congress,??????? ????????????? ??????,"??????? ????????, ?.?.??., ????.??.??."
+339751,Dhananjay Regmi,Male,50,1/23/2032,National Independence Party,FALSE,Gandaki Province,Syangja,1,29071,42.73,10214,15.01,Bharat Raj Dhakal,Nepali Congress,PHD,Hokkaido University japal
+341404,Jhavi Lal Dumre,Male,33,4/5/2049,National Independence Party,FALSE,Gandaki Province,Syangja,2,25354,40.72,4524,7.27,Bhagwat Prakash Malla,Nepali Congress,Masters,T.U.
+340220,Rajan Gautam,Male,39,6/13/2043,National Independence Party,FALSE,Gandaki Province,Nawalparasi (East of Bardaghat Susta),1,50945,62.46,34652,42.49,Bal Krishna Ghimire,Nepali Congress,Unknown,
+340347,Manish Khanal,Male,26,3/11/2056,National Independence Party,FALSE,Gandaki Province,Nawalparasi (East of Bardaghat Susta),2,41347,54.24,25592,33.57,Til Bahadur Mahat Chhetri,Communist Party of Nepal (Unified Marxist-Leninist),???????,????? ? ????????
+342128,Yogesh Gauchan Thakali,Male,32,1/27/2050,Nepali Congress,FALSE,Gandaki Province,Mustang,1,3307,52.65,1501,23.9,Indra Dhara Dadu Bista,Communist Party of Nepal (Unified Marxist-Leninist),???????????,Alliance university
+339417,Mahavir Pun,Male,71,10/5/2011,Independent,TRUE,Gandaki Province,Myagdi,1,22850,52.94,14931,34.59,Harikrishna Shrestha,Communist Party of Nepal (Unified Marxist-Leninist),Master Degree,"??????????? ?? ?????????? ?????, ???????"
+339959,Sushil Khadka,Male,39,12/1/2042,National Independence Party,FALSE,Gandaki Province,Baglung,1,20927,44.47,8983,19.09,Bhim Bahadur Shris Rana,Nepali Congress,??????????,Vanderbilt University USA
+342039,Som Sharma,Male,34,9/29/2048,National Independence Party,FALSE,Gandaki Province,Baglung,2,12647,28.34,779,1.75,Tech Raj Poudel,Nepali Congress,Bachelor,
+341279,Sagar Bhusal,Male,44,4/29/2038,National Independence Party,FALSE,Gandaki Province,Mountain,1,26561,42.02,10607,16.78,Arjun Prasad Joshi,Nepali Congress,SLC,????? ????????? ??.??. ??????
+341377,Sagar Dhakal,Male,34,3/28/2048,National Independence Party,FALSE,Lumbini Province,Gulmi,1,29642,47.14,14461,23,Pradeep Kumar Gyawali,Communist Party of Nepal (Unified Marxist-Leninist),MSC,Oxford University UK
+341282,Govinda Panthi,Male,51,11/16/2031,National Independence Party,FALSE,Lumbini Province,Gulmi,2,16967,32.66,561,1.08,Gokarna Raj Bisht,Communist Party of Nepal (Unified Marxist-Leninist),MPA/BL,T.U
+341027,Sandeep Rana,Male,38,2/20/2044,Nepali Congress,FALSE,Lumbini Province,Palpa,1,18336,35.38,1517,2.93,Narayan Prasad Acharya,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+341329,Madhav Bahadur Thapa,Male,45,7/4/2037,National Independence Party,FALSE,Lumbini Province,Palpa,2,26736,45.99,13744,23.64,Himal Dutt Shrestha,Nepali Congress,Bcahelor Of Medicine,
+339640,Hari Prasad Bhusal,Male,37,7/24/2045,National Independence Party,FALSE,Lumbini Province,Arghakhanchi,1,35023,42.04,12374,14.85,Father Bhusal,Communist Party of Nepal (Unified Marxist-Leninist),Bachelor,????.??
+340189,Sunil Lamsal,Male,35,6/18/2047,National Independence Party,FALSE,Lumbini Province,Rupandehi,1,54845,59.61,42863,46.59,Hira Bahadur Khatri,Nepali Congress,???????????? (?????),??????????? ?????????????
+341184,Sulabh Kharel,Male,28,5/27/2054,National Independence Party,FALSE,Lumbini Province,Rupandehi,2,56550,67.31,43689,52,Vishnu Prasad Poudel,Communist Party of Nepal (Unified Marxist-Leninist),??????????,
+339605,Dr. Lekhjung Thapa,Male,48,5/1/2034,National Independence Party,FALSE,Lumbini Province,Rupandehi,3,58814,65.78,50379,56.34,Sushil Gurung,Nepali Congress,D.M.,????????? ?????????????
+342471,Kanhaiya Baniya,Male,36,6/8/2046,National Independence Party,FALSE,Lumbini Province,Rupandehi,4,28066,38.96,7804,10.83,Pramod Kumar Yadav,Communist Party of Nepal (Unified Marxist-Leninist),Masters,???????? ?????????????
+341416,Taufiq Ahmad Khan,Male,38,6/15/2044,National Independence Party,FALSE,Lumbini Province,Rupandehi,5,38806,49.23,25706,32.61,Khim Lal Bhattarai,Communist Party of Nepal (Unified Marxist-Leninist),MBA,
+341902,Mohan Lal Acharya,Male,53,6/8/2029,National Independence Party,FALSE,Lumbini Province,Kapilvastu,1,34148,40.1,18288,21.47,Ashish Sharma,Independent,??????????,??.??.
+341561,Vikram Thapa,Male,63,12/6/2018,National Independence Party,FALSE,Lumbini Province,Kapilvastu,2,27635,34.51,6108,7.63,Surendra Raj Acharya,Nepali Congress,??.??.??.,????
+341266,Abhishek Pratap Shah,Male,43,6/19/2039,Nepali Congress,FALSE,Lumbini Province,Kapilvastu,3,23535,34.02,4645,6.71,Prakash Rajouria,National Independence Party,Unknown,
+340050,Pushpa Kamal Dahal Prachanda,Male,70,8/26/2012,Nepali Communist Party,FALSE,Lumbini Province,Rukum (Eastern part),1,10240,56.12,6778,37.15,Auctioneer Gautam,Communist Party of Nepal (Unified Marxist-Leninist),??.?????. (???),????.??.
+339842,Barshaman Pun,Male,54,2/18/2028,Nepali Communist Party,FALSE,Lumbini Province,Rolpa,1,27460,41.84,15452,23.54,Sudan Kumar Wali,Nepali Congress,Bachelor,
+340722,Sushant Vedic,Male,31,2/18/2051,National Independence Party,FALSE,Lumbini Province,Pyuthan,1,27469,33.85,9131,11.25,Dr. Govinda Raj Pokharel,Nepali Congress,Masters,
+342029,Devraj Pathak,Male,60,11/13/2022,National Independence Party,FALSE,Lumbini Province,Dang,1,42602,55.77,27322,35.77,Yogendra Chaudhary,Nepali Congress,??.?.,
+340655,Vipin Kumar Acharya,Male,39,10/29/2043,National Independence Party,FALSE,Lumbini Province,Dang,2,43559,54.83,28272,35.59,Shankar Pokhrel,Communist Party of Nepal (Unified Marxist-Leninist),Masters,
+339501,Kamal Subedi,Male,38,12/28/2043,National Independence Party,FALSE,Lumbini Province,Dang,3,44248,52.15,27795,32.76,Deepak Giri,Nepali Congress,??.?. (??????????????),???????? ?????????????
+341907,Suresh Kumar Chaudhary,Male,56,6/16/2026,National Independence Party,FALSE,Lumbini Province,Banke,1,32792,46.25,17491,24.67,Narayan Prasad Gaudel,Nepali Congress,Unknown,
+340037,Mohammad Ishtiaq Rai,Male,46,7/16/2036,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Lumbini Province,Banke,2,24628,36.92,5946,8.91,Vivek Kumar Shrestha,National Independence Party,?? ?,????? ????? ?????? ???? ????
+339589,Khagendra Goldsmith,Male,35,2/2/2047,National Independence Party,FALSE,Lumbini Province,Banke,3,29551,42.06,9936,14.14,Suman Malla,Communist Party of Nepal (Unified Marxist-Leninist),PCL(+2),
+340825,Thakur Singh Tharu,Male,51,5/14/2031,National Independence Party,FALSE,Lumbini Province,Bardiya,1,49631,51.37,34988,36.22,Salik Ram Adhikari,Communist Party of Nepal (Unified Marxist-Leninist),Unknown,
+342516,Shridhar Pokhrel,Male,53,1/5/2029,National Independence Party,FALSE,Lumbini Province,Bardiya,2,29678,33.68,9276,10.53,Kishore Singh Rathore,Nepali Congress,Unknown,
+340029,Vikram Khanal,Male,55,2/24/2027,National Independence Party,FALSE,Lumbini Province,Nawalparasi (Bardaghat Susta West),1,45241,58.69,35739,46.36,Vinod Kumar Chaudhary,Nepali Congress,Bachelor,???????? ?????????????
+340191,Narendra Kumar Gupta,Male,51,6/18/2031,National Independence Party,FALSE,Lumbini Province,Nawalparasi (Bardaghat Susta West),2,44138,52.89,28193,33.78,Bhim Bahadur Thapa Chhetri,Nepali Congress,Bachelor,???????? ?????????????
+340418,Ramesh Kumar Mall,Male,47,10/28/2035,Nepali Communist Party,FALSE,Karnali Province,Salyan,1,23189,29.09,2285,2.87,Lalit Kumar Chand,National Independence Party,????????????,
+339703,Dhan Bahadur Budha,Male,51,11/7/2031,Nepali Communist Party,FALSE,Karnali Province,Dolpa,1,6802,43.87,1406,9.07,Lank Bahadur stopped,Communist Party of Nepal (Unified Marxist-Leninist),SLC,SLC
+341556,Khadga Shahi,Male,58,5/6/2024,Nepali Congress,FALSE,Karnali Province,Mugu,1,7914,37.29,1196,5.63,Completely brave Rokaya,Communist Party of Nepal (Unified Marxist-Leninist),+2 pass,bishnu mavi kathmandu
+341535,Gyan Bahadur Shahi,Male,34,10/24/2048,National Democratic Party,FALSE,Karnali Province,Jumla,1,14816,37.82,3181,8.12,Naresh Bhandari,Nepali Communist Party,Unknown,
+340992,Mahendra Bahadur Shahi,Male,49,10/15/2033,Nepali Communist Party,FALSE,Karnali Province,Kalikot,1,11734,29.8,1087,2.76,Shri Nagindra Shahi,Communist Party of Nepal (Unified Marxist-Leninist),SLC,"???? ????????? ??.??. ???????, ???????"
+340564,Jai Pati stopped,Male,47,7/4/2035,Nepali Congress,FALSE,Karnali Province,Humla,1,8797,40.1,1554,7.08,Dipendra stopped,Nepali Communist Party,SLC,???? ???????? ?.??.??
+342453,Khadak Bahadur Buda,Male,40,8/20/2042,Nepali Congress,FALSE,Karnali Province,Jajarkot,1,20142,34.93,2735,4.74,Shakti Bahadur Vasnet,Nepali Communist Party,Masters,tu
+341040,Basna Thapa,Woman,45,2/15/2037,Nepali Congress,FALSE,Karnali Province,Dailekh,1,12372,32.69,576,1.52,Ravindra Raj Sharma,Communist Party of Nepal (Unified Marxist-Leninist),m. a pass,
+340637,Lakshmi Prasad Pokharel,Male,63,3/13/2019,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Karnali Province,Dailekh,2,13889,38.04,4337,11.88,Dikpal Kumar Shahi,Nepali Congress,???,???????? ????? ????????
+341140,Vishnu Bahadur Khadka,Male,58,7/6/2024,Nepali Congress,FALSE,Karnali Province,Surkhet,1,26897,40.61,8007,12.09,Dhruv Kumar Shahi,Communist Party of Nepal (Unified Marxist-Leninist),SLC,????? ?????? ??.??.
+340194,Ramesh Kumar Sapkota,Male,46,8/15/2036,National Independence Party,FALSE,Karnali Province,Surkhet,2,30826,44.83,14434,20.99,Narayan Kumar Koirala,Nepali Congress,SLC,mahendra mavi dang
+340125,Gopal Sharma,Male,48,9/12/2034,Nepali Communist Party,FALSE,Karnali Province,Rukum (Western part),1,21609,36.3,4948,8.31,Raju K.C.,Nepali Congress,Bachelor,???? ???????? ????????
+341303,Janak Raj Giri,Male,60,9/15/2022,Nepali Congress,FALSE,Far Western Province,Bajura,1,17173,39.12,540,1.23,Lal Bahadur Thapa,Communist Party of Nepal (Unified Marxist-Leninist),Bachelor,???????? ?????????????
+341661,Bharat Kumar Swar,Male,70,3/24/2012,Nepali Congress,FALSE,Far Western Province,Achham,1,10759,35.45,526,1.73,Bhim Bahadur Rawal,Nepali Communist Party,IA,???????? ?????????????
+340611,Yagya Bahadur Bogti,Male,50,10/4/2032,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Far Western Province,Achham,2,9518,31.14,472,1.54,Pushpa Bahadur Shah,Nepali Congress,Bachelor,Achham Multiple Campus
+340443,Ain Bahadur Mahar,Male,41,12/2/2040,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Far Western Province,Bajhang,1,18543,33.82,2239,4.08,Prakash Rasaili Snehi,Nepali Congress,Masters,???????? ?????????????
+341208,Bharat Bahadur Khadka,Male,68,7/4/2014,Nepali Congress,FALSE,Far Western Province,Doti,1,14897,30.3,787,1.6,Deepak Bahadur Dhami,Communist Party of Nepal (Unified Marxist-Leninist),?????? ??,???? ??????? ???????
+342184,Komal Gyawali,Woman,47,8/4/2035,National Independence Party,FALSE,Far Western Province,Kailali,1,17826,32.88,4959,9.15,Janakraj Chaudhary,Nepali Congress,Bachelor,????? ????? ????????
+339795,K.P. Khanal,Male,26,9/27/2056,National Independence Party,FALSE,Far Western Province,Kailali,2,19057,36.2,7108,13.5,Husband Ram Chaudhary,"Citizens' Liberation Party, Nepal (single election symbol)",Bachelor,???????? ?????????????
+342441,Jagat Prasad Joshi,Male,39,6/28/2043,National Independence Party,FALSE,Far Western Province,Kailali,3,20359,36.07,8376,14.84,Virman Chaudhary,Nepali Communist Party,Masters,???????? ??????? ????????
+342757,Khem Raj Koirala,Male,48,12/13/2033,National Independence Party,FALSE,Far Western Province,Kailali,4,28556,49,17255,29.61,Gorakh Bahadur Bista,Nepali Congress,Masters,
+339984,Anand Bahadur Chand,Male,50,2/14/2032,National Independence Party,FALSE,Far Western Province,Kailali,5,31953,51.42,19995,32.17,Nar Narayan Shah,Nepali Congress,????????????,???????? ????? ????????
+340502,Ganesh Singh Thagunna,Male,57,8/22/2025,Communist Party of Nepal (Unified Marxist-Leninist),FALSE,Far Western Province,Darchula,1,18891,39.45,3055,6.38,Dharmananda Joshi,Nepali Congress,Unknown,
+340516,Hari Mohan Bhandari,Male,59,10/15/2023,National Independence Party,FALSE,Far Western Province,Baitadi,1,22134,32.68,3940,5.82,Chatur Bahadur Chand,Nepali Congress,Unknown,
+340545,Tara Prasad Joshi,Male,54,12/30/2027,National Independence Party,FALSE,Far Western Province,Dadeldhura,1,19131,44.42,7010,16.28,Nain Singh Mahar,Nepali Congress,???????????? (PHD),???????? ????? ????????????? (JNU)
+339943,Janak Singh Dhami,Male,55,9/25/2027,National Independence Party,FALSE,Far Western Province,Kanchanpur,1,24332,42.65,13222,23.18,Bina Magar,Nepali Communist Party,Unknown,
+340896,Deepak Raj Bohra,Male,38,1/6/2044,National Independence Party,FALSE,Far Western Province,Kanchanpur,2,33952,55.55,23125,37.84,Narayan Prakash Saud,Nepali Congress,?? ?? ??,???? ??.??
+340127,Gyanendra Singh Mahata,Male,40,10/18/2042,National Independence Party,FALSE,Far Western Province,Kanchanpur,3,27118,50.64,17675,33.01,Hari Prasad Bohra,Nepali Congress,Unknown,

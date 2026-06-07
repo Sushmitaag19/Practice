@@ -1,0 +1,121 @@
+## Pizza-sales analysis
+
+# Problem statements[KPI Requirements]: 
+1. Total Revenue
+2. Average Order Values
+3. Total Pizza Sold
+4. Average Pizzas Per order
+
+# Software/ Tools used:
+1. PostgreSQL
+2. Ms. Excel
+3. Power BI
+4. Notepad
+
+SQL queries:
+
+1. Table Creation:
+	CREATE TABLE pizza_sales(
+	pizza_id INT PRIMARY KEY,
+	order_id INT, 
+	pizza_name_id VARCHAR(50),
+	quantity INT,
+	order_date TEXT,
+	order_time TIME,
+	unit_price NUMERIC(5, 2),
+	total_price NUMERIC(5,2),
+	PIZZA_SIZE VARCHAR(10),
+	pizza_category VARCHAR(50),
+	pizza_ingredient TEXT,
+	pizza_name VARCHAR(200)
+);
+	
+
+2. Importing data into the table:
+	COPY public.pizza_sales
+	FROM 'D:\data analyst\power BI projects\New folder\pizza_sales.csv'
+	DELIMITER ','	
+	CSV HEADER
+	ENCODING 'UTF8';
+
+3. For KPIs:
+
+	i. Total sales:
+	SELECT SUM(total_price) AS Total_Price
+	FROM pizza_sales;
+
+	ii. Average Order value:
+	SELECT SUM(total_price) / COUNT(DISTINCT(order_id)) ASvaerage_order_value
+	FROM pizza_sales;
+
+	iii. Total pizza Sold:
+	SELECT SUM(quantity) AS quantity_sold
+	FROM pizza_sales;
+
+	iv. Total order:
+	SELECT COUNT(DISTINCT(order_id)) AS total_order
+	FROM pizza_sales;
+
+	v. Average pizza sale per order:
+	SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) / CAST(COUNT(DISTINCT(order_id)) AS DECIMAL(10,2)) AS DECIMAL(10,2) )AS average_pizza_sale_per_order
+	FROM pizza_sales;
+
+4. For charts
+	
+	a. Daily Trends:
+	SELECT TO_CHAR(order_date, 'Day') AS order_day, COUNT(DISTINCT (order_id)) AS total_orders
+	FROM pizza_sales
+	GROUP BY TO_CHAR(order_date, 'Day');
+
+	b. Monthly Trends:
+	SELECT TO_CHAR(order_date, 'Month') AS order_month, COUNT(DISTINCT(order_id)) AS total_orders
+	FROM pizza_sales
+	GROUP BY TO_CHAR(order_date, 'Month')
+	ORDER BY total_orders DESC;
+
+	c. Percentage of sales by pizza category:
+	SELECT pizza_category, CAST(SUM(total_price) * 100/ (SELECT SUM(total_price) FROM pizza_sales) AS DECIMAL(10,2)) AS total_sales
+	FROM pizza_sales
+	GROUP BY pizza_category;
+
+	d. Percentage of sales by pizza size:
+	SELECT pizza_size, SUM(total_price) AS total_sales, CAST(SUM(total_price) * 100 / (SELECT SUM(total_price) FROM pizza_sales) AS DECIMAL(10, 2)) AS sale_pecent
+	FROM pizza_sales
+	GROUP BY pizza_size;
+
+	e. Top 5 pizza based on the sales:
+	SELECT pizza_name_id, SUM(total_price) AS total_sales
+	FROM pizza_sales
+	GROUP BY pizza_name_id
+	ORDER BY total_sales DESC
+	LIMIT 5;
+
+	f. Bottom 5 pizza based on the sales:
+	SELECT pizza_name_id, SUM(total_price) AS total_sales
+	FROM pizza_sales
+	GROUP BY pizza_name_id
+	ORDER BY total_sales 
+	LIMIT 5;
+
+	g. Top 5 pizza based on the quantity:
+	SELECT pizza_name_id, SUM(quantity) AS total_quantity_sold
+	FROM pizza_sales
+	GROUP BY pizza_name_id
+	ORDER BY total_quantity_sold DESC 
+	LIMIT 5;
+
+	h. Bottom 5 pizza based on the quantity:
+	SELECT pizza_name_id, SUM(quantity) AS total_quantity_sold
+	FROM pizza_sales
+	GROUP BY pizza_name_id
+	ORDER BY total_quantity_sold  
+	LIMIT 5;
+
+	i. 
+
+## Imported order_date as TEXT and later changed its data type as:
+	ALTER TABLE pizza_sales
+	ALTER COLUMN order_date TYPE DATE
+	USING TO_DATE(order_date, 'DD/MM/YYYY');
+
+#Note: I referenced a youtube video for this analysis with a bit of my personal touch.

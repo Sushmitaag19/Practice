@@ -1,0 +1,8 @@
+province_id,province_name,total_constituencies,total_candidates,total_votes_cast,avg_candidates_per_constituency,dominant_party,dominant_party_seats,male_candidates,female_candidates,male_elected,female_elected
+1,Koshi Province,28,495,1953372,17.7,Rastriya Swatantra Party,17,436,58,24,4
+2,Madesh Province,32,1026,2117086,32.1,Rastriya Swatantra Party,30,917,109,28,3
+3,Bagmati Province,33,731,2140729,22.2,Rastriya Swatantra Party,31,623,108,29,4
+4,Gandaki Province,18,234,992578,13,Rastriya Swatantra Party,15,203,31,17,1
+5,Lumbini Province,26,582,1917649,22.4,Rastriya Swatantra Party,21,529,53,26,0
+6,Karnali Province,12,131,543468,10.9,Nepali Congress,5,120,11,11,1
+7,Sudur Paschim Province,16,206,822944,12.9,Rastriya Swatantra Party,10,188,18,15,1

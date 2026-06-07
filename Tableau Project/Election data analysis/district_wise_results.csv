@@ -1,0 +1,78 @@
+district_code,district_name,province_id,Provience_name,total_constituencies,total_candidates,total_votes_cast,dominant_party,dominant_party_seats,closest_margin_pct,widest_margin_pct,male_candidates,female_candidates
+1,Taplejung,1,Koshi region,1,13,42897,Communist Party of Nepal (Unified Marxist-Leninist),1,5.25,5.25,13,0
+2,Panchthar,1,Koshi region,1,15,66921,Nepali Congress,1,3.73,3.73,15,0
+3,Ilam,1,Koshi region,2,27,123172,Nepali Congress,1,1.53,12.19,24,3
+4,Jhapa,1,Koshi region,5,90,431512,National Independence Party,5,25.91,53.37,75,15
+5,Sankhuwasabha,1,Koshi region,1,16,58888,Communist Party of Nepal (Unified Marxist-Leninist),1,1.08,1.08,13,3
+6,Thirteenth,1,Koshi region,1,12,36795,Nepali Congress,1,2.39,2.39,11,1
+7,Bhojpur,1,Koshi region,1,12,53728,Labor Culture Party,1,3.56,3.56,12,0
+8,Dhankuta,1,Koshi region,1,17,59208,Communist Party of Nepal (Unified Marxist-Leninist),1,6.54,6.54,17,0
+9,Morang,1,Koshi region,6,110,466565,National Independence Party,6,13.68,49.92,98,12
+10,Sunsari,1,Koshi region,4,110,346275,National Independence Party,3,10.23,43.25,90,20
+11,Solukhumbu,1,Koshi region,1,12,38566,Nepali Congress,1,9.73,9.73,11,1
+12,Khotang,1,Koshi region,1,15,58638,Labor Culture Party,1,6.65,6.65,15,0
+13,Okhaldhunga,1,Koshi region,1,15,55535,National Independence Party,1,0.01,0.01,11,3
+14,Udaipur,1,Koshi region,2,31,114672,National Independence Party,2,17.55,25.68,31,0
+15,Saptari,2,Madhesh Pradesh,4,102,269706,National Independence Party,4,22.52,42.55,82,20
+16,Siraha,2,Madhesh Pradesh,4,138,270798,National Independence Party,4,31.28,46.83,130,8
+17,Dolakha,3,Bagmati Province,1,33,79815,National Independence Party,1,18.7,18.7,29,4
+18,Ramechhap,3,Bagmati Province,1,17,81994,National Independence Party,1,8.78,8.78,16,1
+19,Sindhuli,3,Bagmati Province,2,28,110941,National Independence Party,2,1.37,5.89,26,2
+20,Dhanusha,2,Madhesh Pradesh,4,157,231570,National Independence Party,3,0,41.01,142,15
+21,Mahottari,2,Madhesh Pradesh,4,139,241411,National Independence Party,4,34.81,44.52,120,19
+22,Sarlahi,2,Madhesh Pradesh,4,131,297411,National Independence Party,4,17.53,49.17,125,6
+23,Rasuwa,3,Bagmati Province,1,12,23941,Nepali Congress,1,21.24,21.24,11,1
+24,Dhading,3,Bagmati Province,2,47,150592,National Independence Party,2,8.41,29.81,43,4
+25,Nuwakot,3,Bagmati Province,2,30,134370,National Independence Party,2,5.96,24.67,29,1
+26,Kathmandu,3,Bagmati Province,10,250,458100,National Independence Party,10,18.1,58.7,204,46
+27,Bhaktapur,3,Bagmati Province,2,57,144739,National Independence Party,2,7.06,44.91,48,9
+28,Lalitpur,3,Bagmati Province,3,71,177927,National Independence Party,3,19.87,52.31,62,9
+29,Kavrepalanchok,3,Bagmati Province,2,42,185704,National Independence Party,2,12.14,35.63,39,3
+30,Sindhupalchowk,3,Bagmati Province,2,36,143473,National Independence Party,1,3.43,10.26,33,3
+31,Makwanpur,3,Bagmati Province,2,44,176344,National Independence Party,2,13.09,24.24,37,7
+32,Rautahat,2,Madhesh Pradesh,4,142,269536,National Independence Party,3,16.76,30.16,129,13
+33,Twelve,2,Madhesh Pradesh,4,110,293888,National Independence Party,4,29.4,43.04,94,16
+34,Parsa,2,Madhesh Pradesh,4,107,242766,National Independence Party,4,21.34,30.75,95,12
+35,Chitwan,3,Bagmati Province,3,64,272789,National Independence Party,3,40,49.16,46,18
+36,Gorkha,4,Gandaki Province,2,25,115537,National Independence Party,2,23.62,27.63,22,3
+37,Manang,4,Gandaki Province,1,3,2878,Nepali Congress,1,68.14,68.14,2,1
+38,Lamjung,4,Gandaki Province,1,12,73010,National Independence Party,1,23.31,23.31,11,1
+39,Kaski,4,Gandaki Province,3,49,180734,National Independence Party,3,39.86,48.19,44,5
+40,Tanahun,4,Gandaki Province,2,27,127998,National Independence Party,2,29.65,33.34,23,4
+41,Syangja,4,Gandaki Province,2,24,130302,National Independence Party,2,7.27,15.01,24,0
+42,Gulmi,5,Lumbini Province,2,43,114824,National Independence Party,2,1.08,23,38,5
+43,Palpa,5,Lumbini Province,2,29,109964,Nepali Congress,1,2.93,23.64,27,2
+44,Arghakhanchi,5,Lumbini Province,1,15,83306,National Independence Party,1,14.85,14.85,14,1
+45,Nawalparasi (East of Bardaghat Susta),4,Gandaki Province,2,34,157788,National Independence Party,2,33.57,42.49,27,7
+46,Rupandehi,5,Lumbini Province,5,155,416290,National Independence Party,5,10.83,56.34,136,19
+47,Kapilvastu,5,Lumbini Province,3,98,234420,National Independence Party,2,6.71,21.47,94,4
+48,Mustang,4,Gandaki Province,1,8,6281,Nepali Congress,1,23.9,23.9,7,1
+49,Myagdi,4,Gandaki Province,1,12,43160,Independent,1,34.59,34.59,12,0
+50,Baglung,4,Gandaki Province,2,23,91687,National Independence Party,2,1.75,19.09,21,2
+51,Mountain,4,Gandaki Province,1,17,63203,National Independence Party,1,16.78,16.78,10,7
+52,Rukum (Eastern part),5,Lumbini Province,1,11,18246,Nepali Communist Party,1,37.15,37.15,9,2
+53,Rolpa,5,Lumbini Province,1,10,65632,Nepali Communist Party,1,23.54,23.54,10,0
+54,Pyuthan,5,Lumbini Province,1,14,81146,National Independence Party,1,11.25,11.25,13,1
+55,Salyan,6,Karnali Province,1,14,79709,Nepali Communist Party,1,2.87,2.87,12,2
+56,Dang,5,Lumbini Province,3,60,240670,National Independence Party,3,32.76,35.77,55,5
+57,Dolpa,6,Karnali Province,1,9,15506,Nepali Communist Party,1,9.07,9.07,8,1
+58,Mugu,6,Karnali Province,1,7,21225,Nepali Congress,1,5.63,5.63,7,0
+59,Jumla,6,Karnali Province,1,10,39173,National Democratic Party,1,8.12,8.12,9,1
+60,Kalikot,6,Karnali Province,1,10,39377,Nepali Communist Party,1,2.76,2.76,10,0
+61,Humla,6,Karnali Province,1,7,21935,Nepali Congress,1,7.08,7.08,6,1
+62,Jajarkot,6,Karnali Province,1,11,57668,Nepali Congress,1,4.74,4.74,11,0
+63,Dailekh,6,Karnali Province,2,21,74359,Nepali Congress,1,1.52,11.88,17,4
+64,Surkhet,6,Karnali Province,2,30,134993,Nepali Congress,1,12.09,20.99,29,1
+65,Banke,5,Lumbini Province,3,56,207867,National Independence Party,2,8.91,24.67,51,5
+66,Bardiya,5,Lumbini Province,2,36,184739,National Independence Party,2,10.53,36.22,31,5
+67,Bajura,7,Far Western Province,1,8,43896,Nepali Congress,1,1.23,1.23,8,0
+68,Achham,7,Far Western Province,2,17,60917,Nepali Congress,1,1.54,1.73,17,0
+69,Bajhang,7,Far Western Province,1,7,54833,Communist Party of Nepal (Unified Marxist-Leninist),1,4.08,4.08,7,0
+70,Doti,7,Far Western Province,1,9,49168,Nepali Congress,1,1.6,1.6,8,1
+71,Kailali,7,Far Western Province,5,75,283729,National Independence Party,5,9.15,32.17,64,11
+72,Darchula,7,Far Western Province,1,11,47890,Communist Party of Nepal (Unified Marxist-Leninist),1,6.38,6.38,11,0
+73,Baitadi,7,Far Western Province,1,11,67730,National Independence Party,1,5.82,5.82,11,0
+74,Dadeldhura,7,Far Western Province,1,13,43067,National Independence Party,1,16.28,16.28,13,0
+75,Kanchanpur,7,Far Western Province,3,55,171714,National Independence Party,3,23.18,37.84,49,6
+77,Nawalparasi (Bardaghat Susta West),5,Lumbini Province,2,55,160545,National Independence Party,2,33.78,46.36,51,4
+78,Rukum (Western part),6,Karnali Province,1,12,59523,Nepali Communist Party,1,8.31,8.31,11,1
